@@ -1,16 +1,55 @@
-# React + Vite
+# 🎧 Earbuds Hero — React + GSAP
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive earbuds landing page built with React, Vite, Tailwind CSS, and GSAP.
 
-Currently, two official plugins are available:
+## 📸 Preview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+<img width="1366" height="637" alt="my-app - Brave 10_3_2026 2_59_02 PM" src="https://github.com/user-attachments/assets/c51f0376-ea56-4879-bc63-024690a621ea" />
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
 
-## Expanding the ESLint configuration
+- 🎧 Modern Earbuds Hero Section
+- 🎬 Smooth GSAP Animations
+- 📱 Fully Responsive Design
+- ⚡ React + Vite
+- 🎨 Tailwind CSS
+- 🧩 Reusable React Components
+- 🖼️ Custom Local Assets
+- 🌙 Modern Dark UI
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Technologies
+
+- React.js
+- Vite
+- Tailwind CSS
+- GSAP
+- JavaScript
+- JSX
+
+## 📂 Project Structure
+
+```text
+my-app/
+├── public/
+│
+├── src/
+│   ├── assets/
+│   │   ├── bg.avif
+│   │   ├── bg1.jpg
+│   │   └── hero.png
+│   │
+│   ├── components/
+│   │   ├── Hero.jsx
+│   │   └── Navbar.jsx
+│   │
+│   ├── App.jsx
+│   ├── index.css
+│   └── main.jsx
+│
+├── .gitignore
+├── eslint.config.js
+├── index.html
+├── package.json
+├── package-lock.json
+└── README.md
